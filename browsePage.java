@@ -74,7 +74,7 @@ public class browsePage extends JFrame implements ActionListener {
         lblName1.setForeground(Color.DARK_GRAY);
         productPanel1.add(lblName1);
 
-        lblPrice1 = new JLabel("₱ 50");
+        lblPrice1 = new JLabel("₱ 1,299");
         lblPrice1.setBounds(15, 220, 240, 25);
         lblPrice1.setFont(new Font("Serif", Font.PLAIN, 17));
         lblPrice1.setForeground(Color.DARK_GRAY);
@@ -116,7 +116,7 @@ public class browsePage extends JFrame implements ActionListener {
         lblName2.setForeground(Color.DARK_GRAY);
         productPanel2.add(lblName2);
 
-        lblPrice2 = new JLabel("₱ 50");
+        lblPrice2 = new JLabel("₱ 2,499");
         lblPrice2.setBounds(15, 220, 240, 25);
         lblPrice2.setFont(new Font("Serif", Font.PLAIN, 17));
         lblPrice2.setForeground(Color.DARK_GRAY);
@@ -158,7 +158,7 @@ public class browsePage extends JFrame implements ActionListener {
         lblName3.setForeground(Color.DARK_GRAY);
         productPanel3.add(lblName3);
 
-        lblPrice3 = new JLabel("₱ 50");
+        lblPrice3 = new JLabel("₱ 349");
         lblPrice3.setBounds(15, 220, 240, 25);
         lblPrice3.setFont(new Font("Serif", Font.PLAIN, 17));
         lblPrice3.setForeground(Color.DARK_GRAY);
@@ -200,7 +200,7 @@ public class browsePage extends JFrame implements ActionListener {
         lblName4.setForeground(Color.DARK_GRAY);
         productPanel4.add(lblName4);
 
-        lblPrice4 = new JLabel("₱ 50");
+        lblPrice4 = new JLabel("₱ 899");
         lblPrice4.setBounds(15, 220, 240, 25);
         lblPrice4.setFont(new Font("Serif", Font.PLAIN, 17));
         lblPrice4.setForeground(Color.DARK_GRAY);
@@ -242,7 +242,7 @@ public class browsePage extends JFrame implements ActionListener {
         lblName5.setForeground(Color.DARK_GRAY);
         productPanel5.add(lblName5);
 
-        lblPrice5 = new JLabel("₱ 50");
+        lblPrice5 = new JLabel("₱ 599");
         lblPrice5.setBounds(15, 220, 240, 25);
         lblPrice5.setFont(new Font("Serif", Font.PLAIN, 17));
         lblPrice5.setForeground(Color.DARK_GRAY);
@@ -284,7 +284,7 @@ public class browsePage extends JFrame implements ActionListener {
         lblName6.setForeground(Color.DARK_GRAY);
         productPanel6.add(lblName6);
 
-        lblPrice6 = new JLabel("₱ 50");
+        lblPrice6 = new JLabel("₱ 749");
         lblPrice6.setBounds(15, 220, 240, 25);
         lblPrice6.setFont(new Font("Serif", Font.PLAIN, 17));
         lblPrice6.setForeground(Color.DARK_GRAY);
